@@ -59,3 +59,4 @@ All charts dynamically update based on selected filters.
 ---
 
 ## 📂 Project Structure
+**Streamlit Link**: https://employeedatasetanalysis-68ruiieowyweusffetel5h.streamlit.app/
